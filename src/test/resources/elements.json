@@ -1,0 +1,71 @@
+[
+  {
+    "key": "txt_locationsTitle",
+    "value": "[class=\"category-title-media ml-0\"]",
+    "type": "css"
+  },
+  {
+    "key": "txt_navBar",
+    "value": "[class='navbar-nav overflow-y']>li>a",
+    "type": "css"
+  },
+  {
+    "key": "txt_dropdownMenu",
+    "value": "[class='dropdown-menu show']>div:nth-of-type(1)>div>div>a>h5",
+    "type": "css"
+  },
+  {
+    "key": "btn_seeAllTeams",
+    "value": "[id='career-find-our-calling']>div>div>a",
+    "type": "css"
+  },
+  {
+    "key": "txt_jobsName",
+    "value": "div.job-title.mt-0.mt-lg-2.mt-xl-5>a>h3",
+    "type": "css"
+  },
+  {
+    "key": "btn_seeAllQAjobs",
+    "value": "[class='button-group d-flex flex-row']>a",
+    "type": "css"
+  },
+  {
+    "key": "btn_department",
+    "value": "[id='select2-filter-by-department-container']",
+    "type": "css"
+  },
+  {
+    "key": "btn_location",
+    "value": "[id='select2-filter-by-location-container']",
+    "type": "css"
+  },
+  {
+    "key": "btn_Dropdown",
+    "value": "[class='select2-results']>ul>li",
+    "type": "css"
+  },
+  {
+    "key": "txt_jobTitle",
+    "value": "[class='position-list-item-wrapper bg-light']>span",
+    "type": "css"
+  },
+  {
+    "key": "txt_jobLocation",
+    "value": "[class='position-list-item-wrapper bg-light']>div",
+    "type": "css"
+  },
+  {
+    "key": "txt_applyNow",
+    "value": "[class='position-list-item-wrapper bg-light']>a",
+    "type": "css"
+  },
+  {
+    "key": "txt_newPageText",
+    "value": "[class='posting-headline']>h2",
+    "type": "css"
+  }
+
+
+
+
+  ]

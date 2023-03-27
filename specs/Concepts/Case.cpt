@@ -1,0 +1,41 @@
+Created by Samir Aslanlı on 27.03.2023
+
+# Check Insider home page is opened
+* Check "https://www.useinsider.com/" of the page
+
+# Select <text> menu in navigation bar
+* Click on the element with "txt_navBar" equal to <text>
+
+# Select <text> and check Career page
+* Click on the element with "txt_dropdownMenu" equal to <text>
+
+# Click See All Teams button
+* Is there an element with a "btn_seeAllTeams" ?
+* Click element with key "btn_seeAllTeams"
+
+# Click See all QA jobs
+* Is there an element with a "btn_seeAllQAjobs" ?
+* Click element with key "btn_seeAllQAjobs"
+
+# Select <text>
+* Click on the element with "txt_jobsName" equal to <text>
+
+# Enter <location> in Filter by Location
+* Click element with key "btn_location"
+* Click on the element with "btn_Dropdown" equal to <location>
+
+# Enter <department> in Filter by Department
+* Click element with key "btn_department"
+* Click on the element with "btn_Dropdown" equal to <department>
+
+# Control Position contains <department>, Location contains <location>
+* Is the text value of the element with "txt_jobTitle" equal to <department> ?
+* Is the text value of the element with "txt_jobLocation" equal to <location> ?
+
+# Click <key> button
+* Click element with key <key>
+
+# Check Lever Application page is opened
+* New page opens.
+* Is there an element with a "txt_newPageText" ?
+
